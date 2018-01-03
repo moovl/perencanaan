@@ -2,40 +2,39 @@
 Kita mau bikin apa, dan bagaimana, 'sih?
 
 # MASALAH - SOLUSI
-(?) Apa masalah yang hendak dipecahkan dari produk saya ?
-(=) Banyaknya broadcast tentang event2 anak sekolahan yang tersebar di media sosial seperti spam
-    dan susahnya mencari info tentang event
+## Apa masalah yang hendak dipecahkan dari produk saya ?
+- Banyaknya broadcast tentang event2 anak sekolahan yang tersebar di media sosial seperti spam dan susahnya mencari info tentang event
 
-(?) Bagaimana produk kami memecahkan masalah ?
-(=) Tempat efisin untuk mempublikasikan event dan mudah untuk mencari event
+## Bagaimana produk kami memecahkan masalah ?
+- Tempat efisin untuk mempublikasikan event dan mudah untuk mencari event
 
-(==) Tempat yang efisien untuk mempublikasikan event
-(===) Akun user untuk penyelenggara
-(===) Tempat membuat halaman event (isi event, cover, dll)
+- Tempat yang efisien untuk mempublikasikan event
+- Akun user untuk penyelenggara
+- Tempat membuat halaman event (isi event, cover, dll)
 
-(==) Tempat mudah untuk mencari event
-(===) Pencarian berdasar waktu
-(===) pencarian berdasar tempat
-(===) pencarian berdasar penyelenggara
-++// (===) pencarian berdasar nama event
+## Tempat mudah untuk mencari event
+- Pencarian berdasar waktu
+- pencarian berdasar tempat
+- pencarian berdasar penyelenggara
+- pencarian berdasar nama event
 
-(==) Tampilan event
-(===) Menampilkan isi event, cover, tempat, tanggal, jenis event, jadwal event
-(===) Menampilkan rating dan feedback event
+## Tampilan event
+- Menampilkan isi event, cover, tempat, tanggal, jenis event, jadwal event
+- Menampilkan rating dan feedback event
 
-(==) Tempat yang simpel untuk mengelola event
-(===) Melihat jumlah user terdaftar dan datanya
-(===) Megedit halaman event
-(===) Menghapus user terdaftar
+## Tempat yang simpel untuk mengelola event
+- Melihat jumlah user terdaftar dan datanya
+- Megedit halaman event
+- Menghapus user terdaftar
 
-(==) Tempat mengikuti event
-(===) Proses pendaftaran (form / join langsung)
-(===) Proses pembayaran
-(===) Rating dan feedback event
+## Tempat mengikuti event
+- Proses pendaftaran (form / join langsung)
+- Proses pembayaran
+- Rating dan feedback event
 
-(==) Tempat diskusi dan komunikasi yang nyaman
-(===) Forum diskusi antar anggota
-(===) Lobi langsung penyelenggara
+## Tempat diskusi dan komunikasi yang nyaman
+- Forum diskusi antar anggota
+- Lobi langsung penyelenggara
 
 
 # FITUR-FITUR
