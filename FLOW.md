@@ -4,6 +4,7 @@
 * **halaman utama → sign up/sign in → search → halaman evet → pendaftaran → halaman daftar event → forum diskusi → rating dan feedback**
 * **halaman utama → sign up/sign in → membuat event → memantau event/forum diskusi**
 
+
 ## FLOW
 ### FLOW SIGNUP
 1. User mengeklik tombol _Sign Up_.
@@ -19,6 +20,7 @@
 2. User diarahkan ke halaman _Sign In_.
 3. User mengisi data-data kredensial yang diperlukan (**email** dan **password**).
 4. User diarahkan ke... _**TODO: APA INI?**_
+
 
 ## BAGIAN-BAGIAN HALAMAN
 ### BAGIAN-BAGIAN FIXED
