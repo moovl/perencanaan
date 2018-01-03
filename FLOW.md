@@ -35,13 +35,13 @@ _* TODO: Tambahkan detail_
   * Foto profil (klik: menuju [halaman profil](#hal-profil))
   
 
-### HALAMAN UTAMA
+### HALAMAN UTAMA/BERANDA/HOME
 Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
 * 
 
-### HALAMAN SIGNUP
+### HALAMAN SIGNUP <a name="hal-signup"></a>
 
-### HALAMAN LOGIN
+### HALAMAN LOGIN <a name="hal-login"></a>
 
 ### HALAMAN EVENT
 
