@@ -44,7 +44,7 @@ FITUR-FITUR UNTUK MEMENUHI MINIMUM VIABLE PRODUCT
 	- user tertarik untuk mendaftar -> user mengeklik tombol "SIGN UP", kemudian aplikasi menampilkan tampilan registrasi
 		     
 
-USER
+## USER
 ### 1) user menavigasi ke halaman utama
 * FITUR A/B/C/D/...
 - A: memberikan daftar event-event yang terdekat dari tempat mereka
@@ -61,4 +61,4 @@ USER
 
 # FLOW
 - halaman utama -> search -> halaman event / profil pengguna
-- halaman utama -> sign up -> search -> halaman evet -> pendaftaran -> forum diskusi / kontak pembuat event
+- halaman utama -> sign up -> search -> halaman evet -> pendaftaran -> halaman daftar event
