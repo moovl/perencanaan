@@ -16,6 +16,7 @@
 ## BAGIAN-BAGIAN HALAMAN
 ### BAGIAN-BAGIAN FIXED
 Daftar elemen-elemen yang selalu/sebagian besar ditampilkan _across_ halaman-halaman.  
+
 _* TODO: Tambahkan detail_
 * Navigasi bar (ditampilkan di: **halaman utama**, **halaman hasil cari event**, **profil pengguna**, **halaman pembuatan event**.)
   * Logo
