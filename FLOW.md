@@ -27,7 +27,7 @@
 ### BAGIAN-BAGIAN FIXED
 Daftar elemen-elemen yang selalu/sebagian besar ditampilkan _across_ halaman-halaman.  
 
-_* TODO: Tambahkan detail_
+_***TODO: Tambahkan detail**_
 * Navigasi bar (ditampilkan di: **halaman utama**, **halaman hasil cari event**, **profil pengguna**, **halaman pembuatan event**.)
   * Logo
   * Search bar
@@ -37,7 +37,12 @@ _* TODO: Tambahkan detail_
 
 ### HALAMAN UTAMA/BERANDA/HOME <a name="hal-utama"></a>
 Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
-* 
+* Event populer
+* Event terdekat
+* Event dari user-user yang difollow
+* Event rekomendasi berdasarkan:
+  * Preferensi user
+  * Event apa yang sering user _join_
 
 ### HALAMAN SIGNUP <a name="hal-signup"></a>
 
