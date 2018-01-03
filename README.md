@@ -40,16 +40,16 @@ Kita mau bikin apa, dan bagaimana, 'sih?
 # FITUR-FITUR
 FITUR-FITUR UNTUK MEMENUHI MINIMUM VIABLE PRODUCT
 * Dibuat urut berdasarkan bagaimana aplikasi web ini dibuka
-	mis: (1) user membuka halaman utama -> apa yang hendak ditampilkan
-	     (2) user tertarik untuk mendaftar -> user mengeklik tombol "SIGN UP", kemudian aplikasi menampilkan tampilan registrasi
+	mis: - (1) user membuka halaman utama -> apa yang hendak ditampilkan
+	     - (2) user tertarik untuk mendaftar -> user mengeklik tombol "SIGN UP", kemudian aplikasi menampilkan tampilan registrasi
 		     
 
 USER
 ### 1) user menavigasi ke halaman utama
 * FITUR A/B/C/D/...
 - A: memberikan daftar event-event yang terdekat dari tempat mereka
-  B: memberikan daftar event-event berdasarkan rating/popularitas
-  C: ... ?
+- B: memberikan daftar event-event berdasarkan rating/popularitas
+- C: ... ?
 
 ### 2) user menavigasi ke halaman sign-up
 * DATA YANG DIBUTUHKAN
