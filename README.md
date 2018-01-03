@@ -63,3 +63,5 @@ Kita mau bikin apa, dan bagaimana, 'sih?
 **/++
 
 # FLOW
+halaman utama -> search -> halaman event / profil pengguna
+halaman utama -> sign up -> search -> halaman evet -> pendaftaran -> forum diskusi / kontak pembuat event
