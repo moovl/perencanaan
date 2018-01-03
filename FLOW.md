@@ -28,3 +28,17 @@ _* TODO: Tambahkan detail_
 ### HALAMAN UTAMA
 Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
 * 
+
+### HALAMAN SIGNUP
+
+### HALAMAN LOGIN
+
+### HALAMAN EVENT
+
+### HALAMAN PEMBUATAN EVENT
+
+### HALAMAN PROFIL PENGGUNA
+
+### HALAMAN HASIL TELUSUR
+
+### 
