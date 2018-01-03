@@ -40,8 +40,8 @@ Kita mau bikin apa, dan bagaimana, 'sih?
 # FITUR-FITUR
 FITUR-FITUR UNTUK MEMENUHI MINIMUM VIABLE PRODUCT
 * Dibuat urut berdasarkan bagaimana aplikasi web ini dibuka
-	mis: - user membuka halaman utama -> apa yang hendak ditampilkan
-	     - user tertarik untuk mendaftar -> user mengeklik tombol "SIGN UP", kemudian aplikasi menampilkan tampilan registrasi
+	- user membuka halaman utama -> apa yang hendak ditampilkan
+	- user tertarik untuk mendaftar -> user mengeklik tombol "SIGN UP", kemudian aplikasi menampilkan tampilan registrasi
 		     
 
 USER
