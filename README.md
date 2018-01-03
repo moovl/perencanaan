@@ -45,13 +45,13 @@ FITUR-FITUR UNTUK MEMENUHI MINIMUM VIABLE PRODUCT
 		     
 
 USER
-1) user menavigasi ke halaman utama
+### 1) user menavigasi ke halaman utama
 * FITUR A/B/C/D/...
 - A: memberikan daftar event-event yang terdekat dari tempat mereka
   B: memberikan daftar event-event berdasarkan rating/popularitas
   C: ... ?
 
-2) user menavigasi ke halaman sign-up
+### 2) user menavigasi ke halaman sign-up
 * DATA YANG DIBUTUHKAN
 	- email
 	- 
