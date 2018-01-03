@@ -4,6 +4,9 @@
 * **halaman utama → sign up/sign in → search → halaman evet → pendaftaran → halaman daftar event → forum diskusi → rating dan feedback**
 * **halaman utama → sign up/sign in → membuat event → memantau event/forum diskusi**
 
+> Guideline ini merupakan guideline untuk aplikasi web yang ditampilkan di peramban desktop.
+> Untuk peramban mobile dan aplikasi native mobile, akan dibuat dokumen terpisah.
+> Bagaimanapun, fitur-fitur sebagian besar/keseluruhan sama _across_ perangkat-perangkat.
 
 ## FLOW
 ### FLOW SIGNUP
