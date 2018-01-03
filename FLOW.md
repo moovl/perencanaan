@@ -19,7 +19,7 @@
 1. User mengeklik tombol _Sign In_.
 2. User diarahkan ke halaman _Sign In_.
 3. User mengisi data-data kredensial yang diperlukan (**email** dan **password**).
-4. User diarahkan ke... _**TODO: APA INI?**_
+4. User diarahkan ke [beranda](#hal-utama).
 
 
 
@@ -35,7 +35,7 @@ _* TODO: Tambahkan detail_
   * Foto profil (klik: menuju [halaman profil](#hal-profil))
   
 
-### HALAMAN UTAMA/BERANDA/HOME
+### HALAMAN UTAMA/BERANDA/HOME <a name="hal-utama"></a>
 Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
 * 
 
