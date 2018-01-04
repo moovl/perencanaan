@@ -41,7 +41,7 @@
 1. User mengeklik tombol _Sign In_.
 2. User diarahkan ke halaman _Sign In_.
 3. Terdapat pilihan: Login menggunakan (1) email, atau (2) akun Google. [Tahap-tahap login](#tahap-login).
-4. User mengisi data-data kredensial yang diperlukan (**email** dan **password**) [Apa saja yang harus user lakukan untuk login?](#hal-login).
+4. User mengisi data-data kredensial yang diperlukan (**email** dan **password**). [Apa saja yang harus user lakukan untuk login?](#hal-login)
 5. User diarahkan ke [beranda](#hal-utama).  
 
 [**Detail flow**](#hal-login)
