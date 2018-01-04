@@ -38,7 +38,7 @@
 ### FLOW LOGIN
 1. User mengeklik tombol _Sign In_.
 2. User diarahkan ke halaman _Sign In_.
-3. User mengisi data-data kredensial yang diperlukan (**email** dan **password**).
+3. User mengisi data-data kredensial yang diperlukan (**email** dan **password**) [Apa saja yang harus user lakukan untuk login?](#hal-login).
 4. User diarahkan ke [beranda](#hal-utama).
 
 
