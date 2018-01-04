@@ -107,7 +107,7 @@ Proses log in dibagi menjadi 2 tahap.
   * Password
 
 
-### Halaman Event
+### Halaman Event <a name="hal-event"></a>
 * Judul event
 * Deskripsi event
 * Gambar event
@@ -118,6 +118,7 @@ Proses log in dibagi menjadi 2 tahap.
 * Harga
 
 ### Halaman Pembuatan Event
+Gunakan [daftar ini](#hal-event).
 
 ### Halaman Profil Pengguna
 
