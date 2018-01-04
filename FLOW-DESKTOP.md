@@ -35,7 +35,7 @@
 4. User diminta untuk verifikasi email.
 5. User diberikan 2 pilihan: [cari event](#halaman-cari-event) atau [buat event](#halaman-buat-event).  
 
-[**Detail flow**](#hal-signup).
+[**Detail flow**](#hal-signup)
 
 ### Flow Login
 1. User mengeklik tombol _Sign In_.
@@ -44,7 +44,7 @@
 4. User mengisi data-data kredensial yang diperlukan (**email** dan **password**) [Apa saja yang harus user lakukan untuk login?](#hal-login).
 5. User diarahkan ke [beranda](#hal-utama).  
 
-[**Detail flow**](#hal-login).
+[**Detail flow**](#hal-login)
 
 
 
