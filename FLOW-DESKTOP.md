@@ -1,8 +1,25 @@
 # FLOW & BAGIAN-BAGIAN
 
-* halaman utama → search → halaman event/profil pengguna
-* halaman utama → sign up/sign in → search → halaman evet → pendaftaran → halaman daftar event → forum diskusi → rating dan feedback
-* halaman utama → sign up/sign in → membuat event → memantau event/forum diskusi
+## SATU
+1. halaman utama
+2. search
+3. halaman event/profil pengguna
+
+## DUA
+1. halaman utama
+2. sign up/sign in
+3. search
+4. halaman event
+5. pendaftaran
+6. halaman daftar event
+7. forum diskusi
+8. rating dan feedback
+
+## TIGA
+1. halaman utama
+2. sign up/sign in
+3. membuat event
+4. memantau event/forum diskusi
 
 > Guideline ini merupakan guideline untuk aplikasi web yang ditampilkan di peramban desktop.  
 > Untuk peramban mobile dan aplikasi native mobile, akan dibuat dokumen terpisah.  
