@@ -115,6 +115,7 @@ Proses log in dibagi menjadi 2 tahap.
 * Forum diskusi
 * Link daftar (mis: formulir, dll.)
 * Host
+* Harga
 
 ### Halaman Pembuatan Event
 
