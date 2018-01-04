@@ -83,8 +83,7 @@ Proses log in dibagi menjadi 2 tahap.
 * Form
   * Alamat email
   * Password
-  
-#### Tahap II: Log in menggunakan email
+
 
 ### HALAMAN EVENT
 
