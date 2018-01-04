@@ -6,3 +6,7 @@
 /account/:userid
 /events/index.html?view=:view&sort=:sort => :view=time_created,time_done,time_comes,time_now,type,fav,price,max,join; :sort=accending,decending
 /events/:eventid
+/events/create
+/events/:eventid?cmd=modify
+/events/:eventid/discussion
+/events/:eventid/forms
