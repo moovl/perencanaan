@@ -114,6 +114,7 @@ Proses log in dibagi menjadi 2 tahap.
 * Garis waktu acara
 * Forum diskusi
 * Link daftar (mis: formulir, dll.)
+* Host
 
 ### Halaman Pembuatan Event
 
