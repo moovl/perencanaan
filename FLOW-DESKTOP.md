@@ -26,7 +26,7 @@
 4. memantau event/forum diskusi
 
 ## FLOW
-### FLOW SIGNUP
+### Flow Signup
 1. User mengeklik tombol _Sign Up_.
 2. User diarahkan ke halaman _Sign Up_.
   [Apa saja yang ada di _Sign Up_?](#hal-signup)
@@ -37,7 +37,7 @@
 
 [**Detail flow**](#hal-signup).
 
-### FLOW LOGIN
+### Flow Login
 1. User mengeklik tombol _Sign In_.
 2. User diarahkan ke halaman _Sign In_.
 3. Terdapat pilihan: Login menggunakan (1) email, atau (2) akun Google. [Tahap-tahap login](#tahap-login).
@@ -49,7 +49,7 @@
 
 
 ## BAGIAN-BAGIAN HALAMAN
-### BAGIAN-BAGIAN FIXED
+### Bagian-bagian Fixed
 Daftar elemen-elemen yang selalu/sebagian besar ditampilkan _across_ halaman-halaman.  
 
 _***TODO: Tambahkan detail**_
@@ -60,7 +60,7 @@ _***TODO: Tambahkan detail**_
   * Foto profil (klik: menuju [halaman profil](#hal-profil))
   
 
-### HALAMAN UTAMA/BERANDA/HOME <a name="hal-utama"></a>
+### Halaman Utama <a name="hal-utama"></a>
 Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
 * Event populer
 * Event terdekat
@@ -69,7 +69,7 @@ Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
   * Preferensi user
   * Event apa yang sering user _join_
 
-### HALAMAN SIGNUP DAN DETAIL FLOW SIGN UP <a name="hal-signup"></a>
+### Halaman Signup dan Detail Flow Signup <a name="hal-signup"></a>
 Daftar elemen-elemen minimum yang (harus) ada di halaman sign up.  
 Proses sign up dibagi menjadi 3 tahap.
 #### Tahap I
@@ -91,7 +91,7 @@ Proses sign up dibagi menjadi 3 tahap.
   * Nomor telepon **(Menunggu persetujuan)**
   * Tombol "SIGN UP"
 
-### HALAMAN LOGIN DAN DETAIL FLOW LOGIN <a name="hal-login"></a>
+### Halaman Login dan Detail Flow Login <a name="hal-login"></a>
 Daftar elemen-elemen minimum yang (harus) ada di halaman log in.  
 Proses log in dibagi menjadi 2 tahap.
 #### Tahap I <a name="tahap-login"></a>
@@ -107,11 +107,11 @@ Proses log in dibagi menjadi 2 tahap.
   * Password
 
 
-### HALAMAN EVENT
+### Halaman Event
 
-### HALAMAN PEMBUATAN EVENT
+### Halaman Pembuatan Event
 
-### HALAMAN PROFIL PENGGUNA
+### Halaman Profil Pengguna
 
-### HALAMAN HASIL TELUSUR
+### Halaman Hasil Telusur
 
