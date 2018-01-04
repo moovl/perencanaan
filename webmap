@@ -1,0 +1,8 @@
+/index.html
+/account/signup.html
+/account/signin.html
+/account/setting.html
+/account/repair.html
+/account/:userid
+/events/index.html?view=:view&sort=:sort => :view=time_created,time_done,time_comes,time_now,type,fav,price,max,join; :sort=accending,decending
+/events/:id
