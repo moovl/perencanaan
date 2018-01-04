@@ -4,8 +4,8 @@
 * halaman utama → sign up/sign in → search → halaman evet → pendaftaran → halaman daftar event → forum diskusi → rating dan feedback
 * halaman utama → sign up/sign in → membuat event → memantau event/forum diskusi
 
-> Guideline ini merupakan guideline untuk aplikasi web yang ditampilkan di peramban desktop.
-> Untuk peramban mobile dan aplikasi native mobile, akan dibuat dokumen terpisah.
+> Guideline ini merupakan guideline untuk aplikasi web yang ditampilkan di peramban desktop.  
+> Untuk peramban mobile dan aplikasi native mobile, akan dibuat dokumen terpisah.  
 > Bagaimanapun, fitur-fitur sebagian besar/keseluruhan sama _across_ perangkat-perangkat.
 
 ## FLOW
@@ -48,7 +48,7 @@ Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
   * Event apa yang sering user _join_
 
 ### HALAMAN SIGNUP <a name="hal-signup"></a>
-Daftar elemen-elemen minimum yang (harus) ada di halaman sign up.
+Daftar elemen-elemen minimum yang (harus) ada di halaman sign up.  
 Proses sign up dibagi menjadi 3 tahap.
 #### Tahap I
 * User diberikan pilihan:
@@ -70,6 +70,21 @@ Proses sign up dibagi menjadi 3 tahap.
   * Tombol "SIGN UP"
 
 ### HALAMAN LOGIN <a name="hal-login"></a>
+Daftar elemen-elemen minimum yang (harus) ada di halaman log in.  
+Proses log in dibagi menjadi 2 tahap.
+#### Tahap I
+* Form
+  * Tombol "Log in menggunakkan akun Google
+  * Tombol "Log in menggunakan email"
+#### Tahap II: Log in menggunakan akun Google
+* Autentikasi
+
+#### Tahap II: Log in menggunakan email
+* Form
+  * Alamat email
+  * Password
+  
+#### Tahap II: Log in menggunakan email
 
 ### HALAMAN EVENT
 
