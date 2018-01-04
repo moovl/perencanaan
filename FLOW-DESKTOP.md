@@ -33,13 +33,18 @@
 3. User mengisi form _Sign Up_.
   [Apa saja yang harus user isi ketika registrasi?](#hal-signup)
 4. User diminta untuk verifikasi email.
-5. User diberikan 2 pilihan: [cari event](#halaman-cari-event) atau [buat event](#halaman-buat-event).
+5. User diberikan 2 pilihan: [cari event](#halaman-cari-event) atau [buat event](#halaman-buat-event).  
+
+[**Detail flow**](#hal-signup).
 
 ### FLOW LOGIN
 1. User mengeklik tombol _Sign In_.
 2. User diarahkan ke halaman _Sign In_.
-3. User mengisi data-data kredensial yang diperlukan (**email** dan **password**) [Apa saja yang harus user lakukan untuk login?](#hal-login).
-4. User diarahkan ke [beranda](#hal-utama).
+3. Terdapat pilihan: Login menggunakan (1) email, atau (2) akun Google. [Tahap-tahap login](#tahap-login).
+4. User mengisi data-data kredensial yang diperlukan (**email** dan **password**) [Apa saja yang harus user lakukan untuk login?](#hal-login).
+5. User diarahkan ke [beranda](#hal-utama).  
+
+[**Detail flow**](#hal-login).
 
 
 
@@ -64,7 +69,7 @@ Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
   * Preferensi user
   * Event apa yang sering user _join_
 
-### HALAMAN SIGNUP <a name="hal-signup"></a>
+### HALAMAN SIGNUP DAN DETAIL FLOW SIGN UP <a name="hal-signup"></a>
 Daftar elemen-elemen minimum yang (harus) ada di halaman sign up.  
 Proses sign up dibagi menjadi 3 tahap.
 #### Tahap I
@@ -86,10 +91,10 @@ Proses sign up dibagi menjadi 3 tahap.
   * Nomor telepon **(Menunggu persetujuan)**
   * Tombol "SIGN UP"
 
-### HALAMAN LOGIN <a name="hal-login"></a>
+### HALAMAN LOGIN DAN DETAIL FLOW LOGIN <a name="hal-login"></a>
 Daftar elemen-elemen minimum yang (harus) ada di halaman log in.  
 Proses log in dibagi menjadi 2 tahap.
-#### Tahap I
+#### Tahap I <a name="tahap-login"></a>
 * Form
   * Tombol "Log in menggunakkan akun Google
   * Tombol "Log in menggunakan email"
