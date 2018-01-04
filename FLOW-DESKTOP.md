@@ -31,7 +31,7 @@
 2. User diarahkan ke halaman _Sign Up_.
   [Apa saja yang ada di _Sign Up_?](#hal-signup)
 3. User mengisi form _Sign Up_.
-  [Apa saja yang harus user isi ketika registrasi?](#hal-signup-form-registrasi)
+  [Apa saja yang harus user isi ketika registrasi?](#hal-signup)
 4. User diminta untuk verifikasi email.
 5. User diberikan 2 pilihan: [cari event](#halaman-cari-event) atau [buat event](#halaman-buat-event).
 
@@ -80,7 +80,7 @@ Proses sign up dibagi menjadi 3 tahap.
 * Autentikasi
 
 #### Tahap III
-* Form (obviously.) <a name="hal-signup-form-registrasi"></a>
+* Form (obviously.)
   * Nama Lengkap
   * Alamat
   * Nomor telepon **(Menunggu persetujuan)**
