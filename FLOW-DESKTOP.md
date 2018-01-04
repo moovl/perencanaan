@@ -121,6 +121,21 @@ Proses log in dibagi menjadi 2 tahap.
 Gunakan [daftar ini](#hal-event).
 
 ### Halaman Profil Pengguna
+* Foto profil
+* Cover profil
+* Rating user
+* Event-event sukses/Event-event yang diikuti (opsional, pilih salah satu atau tidak keduanya)
+* Statistik
+* Tentang user
+* Postingan user
+* Riwayat
+* Foto-foto
+* Link sosial media
+* Tombol-tombol
+  * Follow
+  * Report
+  * Kontak
+    * Pesan
 
 ### Halaman Hasil Telusur
 
