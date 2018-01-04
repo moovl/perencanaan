@@ -108,6 +108,12 @@ Proses log in dibagi menjadi 2 tahap.
 
 
 ### Halaman Event
+* Judul event
+* Deskripsi event
+* Gambar event
+* Garis waktu acara
+* Forum diskusi
+* Link daftar (mis: formulir, dll.)
 
 ### Halaman Pembuatan Event
 
