@@ -1,8 +1,8 @@
 # FLOW & BAGIAN-BAGIAN
 
-* **halaman utama → search → halaman event/profil pengguna**
-* **halaman utama → sign up/sign in → search → halaman evet → pendaftaran → halaman daftar event → forum diskusi → rating dan feedback**
-* **halaman utama → sign up/sign in → membuat event → memantau event/forum diskusi**
+* halaman utama → search → halaman event/profil pengguna
+* halaman utama → sign up/sign in → search → halaman evet → pendaftaran → halaman daftar event → forum diskusi → rating dan feedback
+* halaman utama → sign up/sign in → membuat event → memantau event/forum diskusi
 
 > Guideline ini merupakan guideline untuk aplikasi web yang ditampilkan di peramban desktop.
 > Untuk peramban mobile dan aplikasi native mobile, akan dibuat dokumen terpisah.
@@ -48,6 +48,26 @@ Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
   * Event apa yang sering user _join_
 
 ### HALAMAN SIGNUP <a name="hal-signup"></a>
+Daftar elemen-elemen minimum yang (harus) ada di halaman sign up.
+Proses sign up dibagi menjadi 3 tahap.
+#### Tahap I
+* User diberikan pilihan:
+  * Signup menggunakan email
+  * Signup menggunakan akun Google
+
+#### Tahap II: Signup menggunakan email
+* Form
+  * Alamat email
+  
+#### Tahap II: Signup menggunakan akun Google
+* Autentikasi
+
+#### Tahap III
+* Form (obviously.) <a name="hal-signup-form-registrasi"></a>
+  * Nama Lengkap
+  * Alamat
+  * Nomor telepon **(Menunggu persetujuan)**
+  * Tombol "SIGN UP"
 
 ### HALAMAN LOGIN <a name="hal-login"></a>
 
@@ -59,4 +79,3 @@ Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
 
 ### HALAMAN HASIL TELUSUR
 
-### 
