@@ -1,5 +1,9 @@
 # FLOW & BAGIAN-BAGIAN
 
+> Guideline ini merupakan guideline untuk aplikasi web yang ditampilkan di peramban desktop.  
+> Untuk peramban mobile dan aplikasi native mobile, akan dibuat dokumen terpisah.  
+> Bagaimanapun, fitur-fitur sebagian besar/keseluruhan sama _across_ perangkat-perangkat.
+
 ## SATU
 1. halaman utama
 2. search
@@ -20,10 +24,6 @@
 2. sign up/sign in
 3. membuat event
 4. memantau event/forum diskusi
-
-> Guideline ini merupakan guideline untuk aplikasi web yang ditampilkan di peramban desktop.  
-> Untuk peramban mobile dan aplikasi native mobile, akan dibuat dokumen terpisah.  
-> Bagaimanapun, fitur-fitur sebagian besar/keseluruhan sama _across_ perangkat-perangkat.
 
 ## FLOW
 ### FLOW SIGNUP
