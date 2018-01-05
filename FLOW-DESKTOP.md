@@ -1,4 +1,4 @@
-# FLOW & BAGIAN-BAGIAN
+# FLOW DAN BAGIAN-BAGIAN
 
 > Guideline ini merupakan guideline untuk aplikasi web yang ditampilkan di peramban desktop.  
 > Untuk peramban mobile dan aplikasi native mobile, akan dibuat dokumen terpisah.  
@@ -68,6 +68,17 @@ Daftar elemen-elemen minimum yang (harus) ada di halaman utama.
 * Event rekomendasi berdasarkan:
   * Preferensi user
   * Event apa yang sering user _join_
+  
+Elemen-elemen tersebut berbentuk kartu, yang berisi
+* Cover event
+* Judul event
+* Host
+* Tanggal mulai
+* Lokasi
+* Tarif
+* Deskripsi singkat
+* Topik event
+* Tombol Bookmark
 
 ### Halaman Signup dan Detail Flow Signup <a name="hal-signup"></a>
 Daftar elemen-elemen minimum yang (harus) ada di halaman sign up.  
@@ -111,14 +122,26 @@ Proses log in dibagi menjadi 2 tahap.
 * Judul event
 * Deskripsi event
 * Gambar event
-* Garis waktu acara
+* Garis waktu acara (termasuk waktu mulai)
 * Forum diskusi
 * Link daftar (mis: formulir, dll.)
-* Host
+* Host (grup/individu)
 * Harga
+* Tombol share ke sosial media
+* Topik event
+* Event-event terkait, berdasarkan
+  * Topik
+  * Gunakan Machine Learning xD
 
 ### Halaman Pembuatan Event
-Gunakan [daftar ini](#hal-event).
+* Form
+  * Judul event
+  * Deskripsi event
+  * Gambar-gambar
+  * Garis waktu acara
+  * Link daftar
+  * Harga
+  * Topik event
 
 ### Halaman Profil Pengguna
 * Foto profil
