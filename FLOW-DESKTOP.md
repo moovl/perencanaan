@@ -140,10 +140,10 @@ Gunakan [daftar ini](#hal-event).
 ### Halaman Hasil Telusur
 #### Flow telusur
 1. User mengetik query di search bar.
-  * Diberikan hasil telusur singkat
+    * Diberikan hasil telusur singkat
 2. User menekan '_Enter_'
-  * User disuguhkan hasil telusur di halaman baru. Hasil telusur berupa kartu-kartu yang memberikan informasi-informasi singkat mengenai event, seperti:
-    * Judul
-    * Waktu
-    * Host
-    * Sedikit deskripsi
+    * User disuguhkan hasil telusur di halaman baru. Hasil telusur berupa kartu-kartu yang memberikan informasi-informasi singkat mengenai event, seperti:
+      * Judul
+      * Waktu
+      * Host
+      * Sedikit deskripsi
