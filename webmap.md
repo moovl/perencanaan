@@ -2,6 +2,12 @@
 
 |method|action|target|dtType|enctype|data|
 |------|------|------|------|-------|----|
+| GET | /api.php\[?key=value\[&key=value]\[&key=value]...] | \_self | * | * | _null_ |
+| POST | /api.php | \_self | form | application/x-www-form-urlencoded | _formData_ |
+| POST | /api.php | \_self | form | text/plain | _formData_ |
+| POST | /api.php | \_self | form | multipart/form-data | _formData_ |
+| POST | /api.php | \_self | text/plain | text/plain | _data_ |
+| POST | /api.php | \_self | json | text/plain | _JSON_ |
 | GET | /index.html | \_self | * | * | _null_ |
 | GET | /account/signup.html | \_self | * | * | _null_ |
 | GET | /account/signin.html | \_self | * | * | _null_ |
@@ -19,3 +25,4 @@
 
 notes :
 _key_ : this means data is Object.key
+api.php see refenrences
