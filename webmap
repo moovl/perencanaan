@@ -1,17 +1,5 @@
-GET /index.html
-GET /account/signup.html
-GET /account/signin.html
-GET /account/setting.html
-GET /account/repair.html
-GET /account/:userid
-GET /account/:userid/about
-GET /account/:userid/statics
-GET /account/:userid/followers
-GET /account/:userid/following
-GET /account/:userid/joins
-GET /events/index.html[?filter=[sort:(accending|decending);][key:value;][key:value;][key:value;]...] => key=time_created,time_done,time_comes,time_now,type,fav,price,max,join
-GET /events/:eventid
-GET /events/create
-GET /events/:eventid?cmd=modify
-GET /events/:eventid/forum
-GET /events/:eventid/forms
+# Web Maps Based Form or AJAX methods
+
+|method|action|target|dtType|enctype|
+|------|------|------|------|-------|
+| GET | /index.html | _self | * | * |
