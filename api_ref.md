@@ -2,11 +2,11 @@
 url on /api.php<br />
 return JSON<br /><br />
 
-[Function](#Function) :
+[Function](#function) :
   - [cmd=signup](#cmdsignup)
-  - [cmd=signin]()
-  - [cmd=setting]()
-  - [cmd=list&list=users]()
+  - [cmd=signin](#cmdsignin)
+  - [cmd=setting](#cmdsetting)
+  - [cmd=list&list=users](#cmdlistlistusers)
   - [cmd=user&uid=_:userid_]()
   - [cmd=list&list=events]()
   - [cmd=create&type=event]()
