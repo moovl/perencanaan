@@ -81,7 +81,7 @@ return : id, author, title, date_created, date_event, img, desc, join, types, fo
 method : POST
 
 ## More
-### All Query and Variable
+### All Queries and Variables
 #### Queries
 query : cmd, list, uid, type, eid, types, filter <br /><br />
 cmd : signup, signin, setting, list, user, event, create, upload <br />
