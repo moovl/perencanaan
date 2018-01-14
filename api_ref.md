@@ -2,19 +2,19 @@
 url on /api.php<br />
 return JSON<br /><br />
 
-function :
-  - cmd=signup
-  - cmd=signin
-  - cmd=setting
-  - cmd=list&list=users
-  - cmd=user&uid=_:userid_
-  - cmd=list&list=events
-  - cmd=create&type=event
-  - cmd=event&eid=_:eventid_
-  - cmd=upload&type=_:type_
+[Function](#Function) :
+  - [cmd=signup](#cmdsignup)
+  - [cmd=signin]()
+  - [cmd=setting]()
+  - [cmd=list&list=users]()
+  - [cmd=user&uid=_:userid_]()
+  - [cmd=list&list=events]()
+  - [cmd=create&type=event]()
+  - [cmd=event&eid=_:eventid_]()
+  - [cmd=upload&type=_:type_]()
   
   
-more :
+More :
   - \:userid, \:eventid, \:type
   - filter
   - Using Get and Post
