@@ -14,12 +14,10 @@ return JSON<br /><br />
   - [cmd=upload&type=_:type_](#cmduploadtypetype)
   
   
-More :
+[More](#more) :
   - [All Queries and Variables](#all-queries-and-variables)
-  
     - [Queries](#queries)
     - [Variables](#variables)
-    
   - [Filter](#filter)
   - [Using Get and Post](#using-get-and-post)
   - [Encryption](#encryption)
