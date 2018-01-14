@@ -1,4 +1,4 @@
-# Api References <br />
+# Api References
 url on /api.php<br />
 return JSON<br /><br />
 
@@ -7,19 +7,21 @@ return JSON<br /><br />
   - [cmd=signin](#cmdsignin)
   - [cmd=setting](#cmdsetting)
   - [cmd=list&list=users](#cmdlistlistusers)
-  - [cmd=user&uid=_:userid_]()
-  - [cmd=list&list=events]()
-  - [cmd=create&type=event]()
-  - [cmd=event&eid=_:eventid_]()
-  - [cmd=upload&type=_:type_]()
+  - [cmd=user&uid=_:userid_](#cmduseruiduserid)
+  - [cmd=list&list=events](#cmdlistlistevents)
+  - [cmd=create&type=event](#cmdcreatetypevent)
+  - [cmd=event&eid=_:eventid_](#cmdeventeideventid)
+  - [cmd=upload&type=_:type_](#cmduploadtypetype)
   
   
 More :
-  - \:userid, \:eventid, \:type
-  - filter
-  - Using Get and Post
-  - encryption
-  - return
+  - [All Queries and Variables](#all-queries-and-variables)
+    -[Queries](#queries)
+    -[Variables](#variables)
+  - [Filter](#filter)
+  - [Using Get and Post](#using-get-and-post)
+  - [Encryption](#encryption)
+  - [Return](#return)
   
 ## Function
 
@@ -91,7 +93,7 @@ filter : _key:value_ <br />
 #### Vairables
 _id_sys_ : (new Date()).getTime().toString() + random(1000, 9999).toString() <br />
 
-### filter
+### Filter
 | Key | Value | Description |
 |-|-|-|
 | sort | accending | sorting data from A to Z |
@@ -103,9 +105,9 @@ _id_sys_ : (new Date()).getTime().toString() + random(1000, 9999).toString() <br
 
 ### Using Get and Post
 Get using for non secure data. Get using in address ` ?query=value `. see about Queries above <br />
-Post using for securing data such as Signup, Setting, Create Event and Upload. Recomended to use JSON and see Queries above.
+Post using for securing data such as Signup, Setting, Create Event and Upload. Recomended to use JSON and see [Queries above](#queries).
 
-### encryption
+### Encryption
 We use Enigma Encryption with value range 4096(16^3 || 2^12 || #ffff) <br />
 using 4 value : abcd <br />
 each a, b, c and d has 16 values (0~15) <br />
@@ -122,7 +124,7 @@ table :
 it will used later
 ```
 
-### return
+### Return
 JSON <br />
 ```
 {
