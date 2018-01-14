@@ -16,8 +16,10 @@ return JSON<br /><br />
   
 More :
   - [All Queries and Variables](#all-queries-and-variables)
-    -[Queries](#queries)
-    -[Variables](#variables)
+  
+    - [Queries](#queries)
+    - [Variables](#variables)
+    
   - [Filter](#filter)
   - [Using Get and Post](#using-get-and-post)
   - [Encryption](#encryption)
