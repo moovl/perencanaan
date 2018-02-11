@@ -1,0 +1,11 @@
+Path
+
+/api.php
+/api.php/signup
+/api.php/signin
+/api.php
+
+/api.php
+will return JSON : {"status":"400 Bad Request", "data":"no query included"}
+
+/api.php/
