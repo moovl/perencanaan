@@ -2,17 +2,17 @@
 url on /api.php<br />
 return JSON<br /><br />
 
-setting, create, upload
-/users
-/user/signup
-/user/login
-/user/:id_pub
-/user/:id_pub/setting
-/events
-/event/create
-/event/:event_id
-/event/:event_id/setting
-/uploads
+setting, create, upload <br />
+/signup <br />
+/signin <br />
+/users <br />
+/user/:id_pub <br />
+/setting <br />
+/events <br />
+/event/create <br />
+/event/:event_id <br />
+/event/:event_id/setting <br />
+/uploads <br />
 
 [Function](#function) :
   - [cmd=signup](#cmdsignup)
