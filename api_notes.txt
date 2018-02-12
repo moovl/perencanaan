@@ -48,6 +48,7 @@ req (POST|JSON/X-Code*/Text_Plain/*) :
 *************************
 res(JSON) Success:
 --headers-responds--
+Cookies: session=session_id
 
 {"status":"202 Accepted", "data":{include all user data, exclude pw, session, extra[optional]}}
 *************************
