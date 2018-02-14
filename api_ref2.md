@@ -1,18 +1,18 @@
 ### Path<br />
-- /api.php
-- /api.php/signup
-- /api.php/signin
-- /api.php/setting
-- /api.php/upload
-- /api.php/users
-- /api.php/user/:id_pub
-- /api.php/events
-- /api.php/event/create
-- /api.php/event/:event_id
-- /api.php/event/:event_id/setting
+- \/api.php
+- \/api.php\/signup
+- \/api.php\/signin
+- \/api.php\/setting
+- \/api.php\/upload
+- \/api.php\/users
+- \/api.php\/user\/:id_pub
+- \/api.php\/events
+- \/api.php\/event\/create
+- \/api.php\/event\/:event_id
+- \/api.php\/event\/:event_id\/setting
 <br /><br />
-### /api.php
-#### req (GET/POST|X-Code*/Multer/Text-Plain) :
+### \/api.php
+#### req (GET\/POST|X-Code*\/Multer\/Text-Plain) :
 ```
 --headers-request--
 
@@ -24,8 +24,8 @@ ELSE
 
 {"status":"400 Bad Request", "data":"no query included"}
 ```
-### /api.php/signup
-req (POST|JSON/X-Code*/Text_Plain/*) :
+### \/api.php\/signup
+req (POST|JSON\/X-Code\*\/Text_Plain\/\*) :
 ```
 --headers-request--
 
@@ -43,8 +43,8 @@ res(JSON) Failed:
 
 {"status":"406 Not Acceptable", "data":""}
 ```
-### /api.php/signin
-req (POST|JSON/X-Code*/Text_Plain/*) :
+### \/api.php\/signin
+req (POST|JSON\/X-Code\*\/Text_Plain\/\*) :
 ```
 --headers-request--
 
@@ -63,11 +63,49 @@ res(JSON) Error:
 
 {"status":"401 Unauthorized", "data":""}
 ```
-### /api.php/setting
-### /api.php/upload
-### /api.php/users
-### /api.php/user/:id_pub
-### /api.php/events
-### /api.php/event/create
-### /api.php/event/:event_id
-### /api.php/event/:event_id/setting
+### \/api.php\/setting
+req (POST|JSON\/X-Code\*\/Text_Plain\/\*) :
+```
+--headers-request--
+Cookies: Session=sessions_id
+
+//data using all data icluded, for password use old_pw and new_pw.
+```
+res(JSON) Success:
+```
+--headers-responds--
+
+{"status":"202 Accepted", "data":{include all user data, exclude pw, session, extra[optional]}}
+```
+res(JSON) Error:
+```
+--headers-responds--
+
+{"status":"406 Not Acceptable", "data":""} //data can be "password incorrect", "error input", ""
+```
+### \/api.php\/upload
+req (POST|Multipart-data) :
+```
+--headers-request--
+Cookies: Session=sessions_id
+
+//file_chunks
+```
+res(JSON) Success:
+```
+--headers-responds--
+
+{"status":"201 Created", "data":"file url"}
+```
+res(JSON) Error:
+```
+--headers-responds--
+
+{"status":"500 Internal Server Error", "data":""} //get error $e->errorMessage();
+```
+### \/api.php\/users
+### \/api.php\/user\/:id_pub
+### \/api.php\/events
+### \/api.php\/event\/create
+### \/api.php\/event\/:event_id
+### \/api.php\/event\/:event_id\/setting
