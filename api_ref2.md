@@ -154,7 +154,7 @@ Cookies: Session=sessions_id
 ```
 --headers-responds--
 
-{"status":"406 Not Acceptable", "data":""}
+{"status":"406 Not Acceptable", "data":{err}}
 ```
 ### \/api.php\/event\/:event_id
 #### req (POST\/GET|\*)
@@ -185,5 +185,5 @@ Cookies: Session=sessions_id
 ```
 --headers-responds--
 
-{"status":"406 Not Acceptable", "data":""} //data can be "password incorrect", "error input", ""
+{"status":"406 Not Acceptable", "data":""} //data can be "password incorrect", "error input", {err}, ""
 ```
