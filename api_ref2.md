@@ -10,6 +10,7 @@
 - \/api.php\/event\/create
 - \/api.php\/event\/:event_id
 - \/api.php\/event\/:event_id\/setting
+- notes
 <br /><br />
 ### \/api.php
 #### req (GET\/POST|X-Code*\/Multer\/Text-Plain) :
@@ -187,3 +188,7 @@ Cookies: Session=sessions_id
 
 {"status":"406 Not Acceptable", "data":""} //data can be "password incorrect", "error input", {err}, ""
 ```
+### Notes
+#### Password
+rules :
+- length >= 8
