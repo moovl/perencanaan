@@ -40,11 +40,11 @@ Kita mau bikin apa, dan bagaimana, 'sih?
 # FITUR-FITUR
 FITUR-FITUR UNTUK MEMENUHI MINIMUM VIABLE PRODUCT
 * Dibuat urut berdasarkan bagaimana aplikasi web ini dibuka
-	- user membuka halaman utama -> apa yang hendak ditampilkan
-	- user tertarik untuk mendaftar -> user mengeklik tombol "SIGN UP", kemudian aplikasi menampilkan tampilan registrasi
+	mis: - user membuka halaman utama -> apa yang hendak ditampilkan
+	     - user tertarik untuk mendaftar -> user mengeklik tombol "SIGN UP", kemudian aplikasi menampilkan tampilan registrasi
 		     
 
-## USER
+USER
 ### 1) user menavigasi ke halaman utama
 * FITUR A/B/C/D/...
 - A: memberikan daftar event-event yang terdekat dari tempat mereka
@@ -61,4 +61,5 @@ FITUR-FITUR UNTUK MEMENUHI MINIMUM VIABLE PRODUCT
 
 # FLOW
 - halaman utama -> search -> halaman event / profil pengguna
-- halaman utama -> sign up -> search -> halaman evet -> pendaftaran -> halaman daftar event
+- halaman utama -> sign up -> search -> halaman evet -> pendaftaran -> forum diskusi / kontak pembuat event
+- halaman utama -> sign up -> buat event -> pantau event, forum diskusi
